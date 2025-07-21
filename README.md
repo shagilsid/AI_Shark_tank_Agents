@@ -97,3 +97,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Acknowledgments
 - Inspired by the TV show "Shark Tank."
 - Built using the `crewai` framework and `langchain` tools.
+
+## Support
+If you find this project helpful or interesting, please consider giving it a ⭐ on the [GitHub repository](https://github.com/shagilsid/AI_Shark_tank_Agents) to show your support!
